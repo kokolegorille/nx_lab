@@ -21,6 +21,8 @@ be found at [https://hexdocs.pm/nx_lab](https://hexdocs.pm/nx_lab).
 
 # Testing Nx
 
+https://www.youtube.com/watch?v=fPKMmJpAGWc&feature=emb_logo
+
 ## Prerequisite for EXLA
 
 $ sudo apt install python3-pip
@@ -54,7 +56,7 @@ Erlang/OTP 23 [erts-11.1.7] [source] [64-bit] [smp:8:8] [ds:8:8:10] [async-threa
 
 Compiling 1 file (.ex)
 Interactive Elixir (1.11.3) - press Ctrl+C to exit (type h() ENTER for help)
-iex(1)> NxLab.run
+iex(1)> NxLab.run()
 
 20:48:47.406 [info]  CPU Frequency: 3502700000 Hz
  
